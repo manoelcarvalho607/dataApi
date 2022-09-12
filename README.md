@@ -9,6 +9,17 @@
 
 ## tecnologias usadas
 
-- spring boot (Web,JPA,H2,Security)
+- spring (spring boot, Web,JPA,H2,Security)
 - Datepicker
-- <string>Twilio</string>
+- Twilio
+- axios
+- toastify
+
+## deploy
+- Heroku (backend)
+- netLify (frontend) 
+
+
+### Observações
+- Agradecimentos a @devsuperior por fornecer o treinamento prático e objetivo.
+- link para o projeto: https://dataapi-sitio.netlify.app/
