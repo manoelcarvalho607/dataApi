@@ -4,5 +4,11 @@
 - Banco de dados com ORM
 - Front end com React Js
 - Camadas, componentes
-- Integração com SMS (<string>Twilio</string>)
+- Integração com SMS 
 - Implantação na nuvem com CI/CD
+
+## tecnologias usadas
+
+- spring boot (Web,JPA,H2,Security)
+- Datepicker
+- <string>Twilio</string>
