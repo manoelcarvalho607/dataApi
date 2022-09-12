@@ -21,5 +21,5 @@
 
 
 ### Observações
-- Agradecimentos a @devsuperior por fornecer o treinamento prático e objetivo.
+- Agradecimentos a [DevSuperior - Escola de programação](https://devsuperior.com.br) por fornecer o treinamento prático e objetivo.
 - link para o projeto: https://dataapi-sitio.netlify.app/
