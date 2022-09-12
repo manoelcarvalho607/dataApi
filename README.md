@@ -10,6 +10,9 @@
 ## tecnologias usadas
 
 - spring (spring boot, Web,JPA,H2,Security)
+- react js
+- javaScript
+- java
 - Datepicker
 - Twilio
 - axios
